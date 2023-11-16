@@ -1,24 +1,224 @@
 {
-    "games": [
-        {
-        "Name": "Chess",
-        "Description": "Chess is a classic strategy board game for two players...",
-        "Number_of_players": 2,
-        "Age": "Age 6 and up",
-        "Year": 1200,
-        "Type_of_Game": "Abstract Strategy",
-        "Image": "",
-        "Wiki_website": "https://en.wikipedia.org/wiki/Chess"
-        },
-        {
-        "Name": "Checkers",
-        "Description": "Checkers, a two-player game, involves moving pieces diagonally...",
-        "Number_of_players": 2,
-        "Age": "Age 6 and up",
-        "Year": -3000,
-        "Type_of_Game": "Abstract Strategy",
-        "Image": "",
-        "Wiki_website": "https://en.wikipedia.org/wiki/Checkers"
-        }
-    ]
+  "games": [
+    {
+      "id": 1,
+      "name": "Chess",
+      "description": "Chess is a classic strategy board game for two players...",
+      "number_of_players": 2,
+      "age": "Age 6 and up",
+      "year": 1200,
+      "type_of_Game": "Abstract Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Chess"
+    },
+    {
+      "id": 2,
+      "name": "Checkers",
+      "description": "Checkers, a two-player game, involves moving pieces diagonally...",
+      "number_of_players": 2,
+      "age": "Age 6 and up",
+      "year": -3000,
+      "type_of_Game": "Abstract Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Checkers"
+    },
+    {
+      "id": 3,
+      "name": "Monopoly",
+      "description": "Monopoly is a real estate trading game where players buy, sell...",
+      "number_of_players": "2-8",
+      "age": "Age 8 and up",
+      "year": 1935,
+      "type_of_Game": "Economic Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Monopoly_(game)"
+    },
+    {
+      "id": 4,
+      "name": "Scrabble",
+      "description": "Scrabble challenges players to create words on a game board using...",
+      "number_of_players": "2-4",
+      "age": "Age 8 and up",
+      "year": 1938,
+      "type_of_Game": "Word Game, Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Scrabble"
+    },
+    {
+      "id": 5,
+      "name": "Clue",
+      "description": "In Clue, players solve a murder mystery by deducing the murderer, weapon...",
+      "number_of_players": "3-6",
+      "age": "Age 8 and up",
+      "year": 1949,
+      "type_of_Game": "Deduction, Mystery",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Cluedo"
+    },
+    {
+      "id": 6,
+      "name": "Battleship",
+      "description": "Battleship is a naval warfare game where players strategically deploy...",
+      "number_of_players": 2,
+      "age": "Age 7 and up",
+      "year": 1931,
+      "type_of_Game": "Strategic Guessing, War Game",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Battleship_(game)"
+    },
+    {
+      "id": 7,
+      "name": "Trivial Pursuit",
+      "description": "Trivial Pursuit challenges players' knowledge across various categories...",
+      "number_of_players": "2-6",
+      "age": "Age 12 and up",
+      "year": 1981,
+      "type_of_Game": "Trivia, Knowledge",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Trivial_Pursuit"
+    },
+    {
+      "id": 8,
+      "name": "Backgammon",
+      "description": "Backgammon is a two-player game combining strategy and luck. Players move...",
+      "number_of_players": 2,
+      "age": "Age 7 and up",
+      "year": -3000,
+      "type_of_Game": "Race, Dice, Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Backgammon"
+    },
+    {
+      "id": 9,
+      "name": "Candy Land",
+      "description": "Candy Land is a simple board game for young children. Players move...",
+      "number_of_players": "2-4",
+      "age": "Age 3 and up",
+      "year": 1949,
+      "type_of_Game": "Children's, Race",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Candy_Land"
+    },
+    {
+      "id": 10,
+      "name": "Rummikub",
+      "description": "Rummikub is a tile-based game where players aim to be the first to use...",
+      "number_of_players": "2-4",
+      "age": "Age 8 and up",
+      "year": 1950,
+      "type_of_Game": "Tile-Laying, Number, Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Rummikub"
+    },
+    {
+      "id": 11,
+      "name": "The Game of Life",
+      "description": "The Game of Life simulates a journey through life, with players making...",
+      "number_of_players": "2-6",
+      "age": "Age 8 and up",
+      "year": 1960,
+      "type_of_Game": "Simulation, Economic",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/The_Game_of_Life"
+    },
+    {
+      "id": 12,
+      "name": "Othello",
+      "description": "Othello, a two-player game, involves capturing your opponent's pieces...",
+      "number_of_players": 2,
+      "age": "Age 7 and up",
+      "year": 1883,
+      "type_of_Game": "Abstract Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Reversi"
+    },
+    {
+      "id": 13,
+      "name": "Pictionary",
+      "description": "Pictionary is a drawing and guessing game where players use sketches to...",
+      "number_of_players": "2 teams",
+      "age": "Age 8 and up",
+      "year": 1985,
+      "type_of_Game": "Drawing, Party",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Pictionary"
+    },
+    {
+      "id": 14,
+      "name": "Catan",
+      "description": "Settlers of Catan is a resource management and trading game where players...",
+      "number_of_players": "3-4",
+      "age": "Age 10 and up",
+      "year": 1995,
+      "type_of_Game": "Resource Management, Trading, Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Catan"
+    },
+    {
+      "id": 15,
+      "name": "Risk",
+      "description": "Risk is a global domination game where players use armies to conquer...",
+      "number_of_players": "2-6",
+      "age": "Age 10 and up",
+      "year": 1957,
+      "type_of_Game": "Area Control, War Game",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Risk_(game)"
+    },
+    {
+      "id": 16,
+      "name": "Stratego",
+      "description": "In Stratego, two players deploy an army on a grid-based board with hidden...",
+      "number_of_players": 2,
+      "age": "Age 8 and up",
+      "year": 1961,
+      "type_of_Game": "Deduction, Memory, Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Stratego"
+    },
+    {
+      "id": 17,
+      "name": "Mancala",
+      "description": "Mancala is an ancient two-player game where players sow and capture seeds...",
+      "number_of_players": 2,
+      "age": "Age 6 and up",
+      "year": -1400,
+      "type_of_Game": "Capture, Count and Capture",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Mancala"
+    },
+    {
+      "id": 18,
+      "name": "Connect 4",
+      "description": "Connect 4 is a two-player game where the goal is to connect four of your...",
+      "number_of_players": 2,
+      "age": "Age 6 and up",
+      "year": 1974,
+      "type_of_Game": "Connection, Abstract Strategy",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Connect_Four"
+    },
+    {
+      "id": 19,
+      "name": "Blokus",
+      "description": "Blokus is a spatial strategy game for four players, each with their set of...",
+      "number_of_players": "2-4",
+      "age": "Age 7 and up",
+      "year": 2000,
+      "type_of_Game": "Abstract Strategy, Tile Placement",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Blokus"
+    },
+    {
+      "id": 20,
+      "name": "Cranium",
+      "description": "Cranium is a team-based game combining elements of trivia, wordplay, and...",
+      "number_of_players": 4,
+      "age": "Age 13 and up",
+      "year": 1998,
+      "type_of_Game": "Party, Creative, Trivia, Word",
+      "image": "",
+      "wiki_website": "https://en.wikipedia.org/wiki/Cranium_(board_game)"
+    }
+  ]
 }
