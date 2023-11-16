@@ -1,0 +1,24 @@
+{
+    "games": [
+        {
+        "Name": "Chess",
+        "Description": "Chess is a classic strategy board game for two players...",
+        "Number_of_players": 2,
+        "Age": "Age 6 and up",
+        "Year": 1200,
+        "Type_of_Game": "Abstract Strategy",
+        "Image": "",
+        "Wiki_website": "https://en.wikipedia.org/wiki/Chess"
+        },
+        {
+        "Name": "Checkers",
+        "Description": "Checkers, a two-player game, involves moving pieces diagonally...",
+        "Number_of_players": 2,
+        "Age": "Age 6 and up",
+        "Year": -3000,
+        "Type_of_Game": "Abstract Strategy",
+        "Image": "",
+        "Wiki_website": "https://en.wikipedia.org/wiki/Checkers"
+        }
+    ]
+}
