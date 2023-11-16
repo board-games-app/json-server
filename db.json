@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Chess",
-      "description": "Chess is a classic strategy board game for two players...",
+      "description": "Chess is a classic strategy board game for two players. The objective is to checkmate your opponent's king, putting it in a position where it cannot escape capture. With different pieces moving in unique ways, the game demands strategic thinking, foresight, and adaptability.",
       "number_of_players": 2,
       "age": "Age 6 and up",
       "year": 1200,
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "Checkers",
-      "description": "Checkers, a two-player game, involves moving pieces diagonally...",
+      "description": "Checkers, a two-player game, involves moving pieces diagonally on a square board. The goal is to capture the opponent's pieces by jumping over them. The player who eliminates all the opponent's pieces or blocks their movement wins.",
       "number_of_players": 2,
       "age": "Age 6 and up",
       "year": -3000,
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "Monopoly",
-      "description": "Monopoly is a real estate trading game where players buy, sell...",
+      "description": "Monopoly is a real estate trading game where players buy, sell, and trade properties, aiming to bankrupt opponents. Strategy and negotiation skills come into play as players navigate the board, collecting rent and developing monopolies to increase their wealth.",
       "number_of_players": "2-8",
       "age": "Age 8 and up",
       "year": 1935,
@@ -36,7 +36,7 @@
     {
       "id": 4,
       "name": "Scrabble",
-      "description": "Scrabble challenges players to create words on a game board using...",
+      "description": "Scrabble challenges players to create words on a game board using letter tiles with assigned point values. Strategic placement and vocabulary prowess determine success as players compete to achieve the highest score.",
       "number_of_players": "2-4",
       "age": "Age 8 and up",
       "year": 1938,
@@ -47,7 +47,7 @@
     {
       "id": 5,
       "name": "Clue",
-      "description": "In Clue, players solve a murder mystery by deducing the murderer, weapon...",
+      "description": "In Clue, players solve a murder mystery by deducing the murderer, weapon, and location through strategic questioning and clever elimination. The first to correctly identify all three wins.",
       "number_of_players": "3-6",
       "age": "Age 8 and up",
       "year": 1949,
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "name": "Battleship",
-      "description": "Battleship is a naval warfare game where players strategically deploy...",
+      "description": "Battleship is a naval warfare game where players strategically deploy ships on a grid and take turns calling out coordinates to locate and sink each other's fleet. The element of deduction and anticipation adds excitement to this classic game.",
       "number_of_players": 2,
       "age": "Age 7 and up",
       "year": 1931,
@@ -69,7 +69,7 @@
     {
       "id": 7,
       "name": "Trivial Pursuit",
-      "description": "Trivial Pursuit challenges players' knowledge across various categories...",
+      "description": "Trivial Pursuit challenges players' knowledge across various categories. Correctly answering questions earns pie pieces, and the first to collect all six pie pieces by answering questions from different categories wins.",
       "number_of_players": "2-6",
       "age": "Age 12 and up",
       "year": 1981,
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "name": "Backgammon",
-      "description": "Backgammon is a two-player game combining strategy and luck. Players move...",
+      "description": "Backgammon is a two-player game combining strategy and luck. Players move their pieces around a board, aiming to bear them off. The roll of dice determines moves, and players must balance offense and defense.",
       "number_of_players": 2,
       "age": "Age 7 and up",
       "year": -3000,
@@ -91,7 +91,7 @@
     {
       "id": 9,
       "name": "Candy Land",
-      "description": "Candy Land is a simple board game for young children. Players move...",
+      "description": "Candy Land is a simple board game for young children. Players move their pieces along a winding path of colored spaces, guided by drawing cards. The first to reach the end wins.",
       "number_of_players": "2-4",
       "age": "Age 3 and up",
       "year": 1949,
@@ -102,7 +102,7 @@
     {
       "id": 10,
       "name": "Rummikub",
-      "description": "Rummikub is a tile-based game where players aim to be the first to use...",
+      "description": "Rummikub is a tile-based game where players aim to be the first to use all their tiles by creating sets or runs. Strategic rearrangement and manipulation of tiles are crucial for success.",
       "number_of_players": "2-4",
       "age": "Age 8 and up",
       "year": 1950,
@@ -113,7 +113,7 @@
     {
       "id": 11,
       "name": "The Game of Life",
-      "description": "The Game of Life simulates a journey through life, with players making...",
+      "description": "The Game of Life simulates a journey through life, with players making decisions that impact their success and happiness. The goal is to accumulate wealth and experiences, with the richest player at the end declared the winner.",
       "number_of_players": "2-6",
       "age": "Age 8 and up",
       "year": 1960,
@@ -124,7 +124,7 @@
     {
       "id": 12,
       "name": "Othello",
-      "description": "Othello, a two-player game, involves capturing your opponent's pieces...",
+      "description": "Othello, a two-player game, involves capturing your opponent's pieces by sandwiching them between your own. The strategic placement of discs and the ability to flip your opponent's pieces are key to victory.",
       "number_of_players": 2,
       "age": "Age 7 and up",
       "year": 1883,
@@ -135,7 +135,7 @@
     {
       "id": 13,
       "name": "Pictionary",
-      "description": "Pictionary is a drawing and guessing game where players use sketches to...",
+      "description": "Pictionary is a drawing and guessing game where players use sketches to convey words or phrases to their team. Quick thinking and artistic skill contribute to a team's success.",
       "number_of_players": "2 teams",
       "age": "Age 8 and up",
       "year": 1985,
@@ -146,7 +146,7 @@
     {
       "id": 14,
       "name": "Catan",
-      "description": "Settlers of Catan is a resource management and trading game where players...",
+      "description": "Settlers of Catan is a resource management and trading game where players build settlements and cities on an island. The first player to reach a certain point threshold through development and strategy wins.",
       "number_of_players": "3-4",
       "age": "Age 10 and up",
       "year": 1995,
@@ -157,7 +157,7 @@
     {
       "id": 15,
       "name": "Risk",
-      "description": "Risk is a global domination game where players use armies to conquer...",
+      "description": "Risk is a global domination game where players use armies to conquer territories and continents. Strategic planning, alliances, and calculated risk-taking are crucial to world domination.",
       "number_of_players": "2-6",
       "age": "Age 10 and up",
       "year": 1957,
@@ -168,7 +168,7 @@
     {
       "id": 16,
       "name": "Stratego",
-      "description": "In Stratego, two players deploy an army on a grid-based board with hidden...",
+      "description": "In Stratego, two players deploy an army on a grid-based board with hidden piece values. The objective is to capture the opponent's flag while strategically protecting your own.",
       "number_of_players": 2,
       "age": "Age 8 and up",
       "year": 1961,
@@ -179,7 +179,7 @@
     {
       "id": 17,
       "name": "Mancala",
-      "description": "Mancala is an ancient two-player game where players sow and capture seeds...",
+      "description": "Mancala is an ancient two-player game where players sow and capture seeds in pits on the board. The strategic movement of seeds to accumulate the most captures leads to victory.",
       "number_of_players": 2,
       "age": "Age 6 and up",
       "year": -1400,
@@ -190,7 +190,7 @@
     {
       "id": 18,
       "name": "Connect 4",
-      "description": "Connect 4 is a two-player game where the goal is to connect four of your...",
+      "description": "Connect 4 is a two-player game where the goal is to connect four of your colored discs in a row, either horizontally, vertically, or diagonally, before your opponent does.",
       "number_of_players": 2,
       "age": "Age 6 and up",
       "year": 1974,
@@ -201,7 +201,7 @@
     {
       "id": 19,
       "name": "Blokus",
-      "description": "Blokus is a spatial strategy game for four players, each with their set of...",
+      "description": "Blokus is a spatial strategy game for four players, each with their set of Tetris-like pieces. The goal is to place as many pieces on the board as possible while blocking opponents. The player with the fewest remaining pieces wins.",
       "number_of_players": "2-4",
       "age": "Age 7 and up",
       "year": 2000,
@@ -212,7 +212,7 @@
     {
       "id": 20,
       "name": "Cranium",
-      "description": "Cranium is a team-based game combining elements of trivia, wordplay, and...",
+      "description": "Cranium is a team-based game combining elements of trivia, wordplay, and creative challenges. Teams progress on the board by successfully completing tasks in four categories: Data Head, Word Worm, Star Performer, and Creative Cat. The first team to reach the center of the board wins.",
       "number_of_players": 4,
       "age": "Age 13 and up",
       "year": 1998,
