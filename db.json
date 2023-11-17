@@ -29,7 +29,7 @@
       "number_of_players": "2-8",
       "age": "Age 8 and up",
       "year": 1935,
-      "type_of_Game": "Economic Strategy",
+      "type_of_Game": "Party",
       "image": "https://i.pinimg.com/originals/e8/5d/fe/e85dfea7e92af7f6a8789ae7ca47dfe2.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Monopoly_(game)"
     },
@@ -40,7 +40,7 @@
       "number_of_players": "2-4",
       "age": "Age 8 and up",
       "year": 1938,
-      "type_of_Game": "Word Game, Strategy",
+      "type_of_Game": "Word Game",
       "image": "https://1000logos.net/wp-content/uploads/2021/04/Scrabble-Logo-2008.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Scrabble"
     },
@@ -51,7 +51,7 @@
       "number_of_players": "3-6",
       "age": "Age 8 and up",
       "year": 1949,
-      "type_of_Game": "Deduction, Mystery",
+      "type_of_Game": "Party",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/CLUE_logo.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Cluedo"
     },
@@ -62,7 +62,7 @@
       "number_of_players": 2,
       "age": "Age 7 and up",
       "year": 1931,
-      "type_of_Game": "Strategic Guessing, War Game",
+      "type_of_Game": "Strategy",
       "image": "https://banner2.cleanpng.com/20180414/tkq/kisspng-battleship-board-game-the-game-of-life-logo-game-logo-5ad240b5255eb3.8676790215237285651531.jpg",
       "wiki_website": "https://en.wikipedia.org/wiki/Battleship_(game)"
     },
@@ -73,7 +73,7 @@
       "number_of_players": "2-6",
       "age": "Age 12 and up",
       "year": 1981,
-      "type_of_Game": "Trivia, Knowledge",
+      "type_of_Game": "Party",
       "image": "https://shuffle.cards/assets/images/licenses/trivial_pursuit/header_logo.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Trivial_Pursuit"
     },
@@ -84,7 +84,7 @@
       "number_of_players": 2,
       "age": "Age 7 and up",
       "year": -3000,
-      "type_of_Game": "Race, Dice, Strategy",
+      "type_of_Game": "Strategy",
       "image": "https://w7.pngwing.com/pngs/450/951/png-transparent-backgammon-draughts-logo-game-chess-backgammon-game-text-logo.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Backgammon"
     },
@@ -95,7 +95,7 @@
       "number_of_players": "2-4",
       "age": "Age 3 and up",
       "year": 1949,
-      "type_of_Game": "Children's, Race",
+      "type_of_Game": "Party",
       "image": "https://i.pinimg.com/736x/b1/5f/82/b15f82370973226cc1a3dd2896b53d59.jpg",
       "wiki_website": "https://en.wikipedia.org/wiki/Candy_Land"
     },
@@ -106,7 +106,7 @@
       "number_of_players": "2-4",
       "age": "Age 8 and up",
       "year": 1950,
-      "type_of_Game": "Tile-Laying, Number, Strategy",
+      "type_of_Game": "Strategy",
       "image": "https://www.johnadams.co.uk/wp-content/uploads/2021/01/Rummikub-Logo.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Rummikub"
     },
@@ -117,7 +117,7 @@
       "number_of_players": "2-6",
       "age": "Age 8 and up",
       "year": 1960,
-      "type_of_Game": "Simulation, Economic",
+      "type_of_Game": "Party",
       "image": "https://www.clipartmax.com/png/middle/67-675847_life-board-game-logo-gallery-hasbro-gaming-the-game-of-life.png",
       "wiki_website": "https://en.wikipedia.org/wiki/The_Game_of_Life"
     },
@@ -139,7 +139,7 @@
       "number_of_players": "2 teams",
       "age": "Age 8 and up",
       "year": 1985,
-      "type_of_Game": "Drawing, Party",
+      "type_of_Game": "Mixed Genre",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pictionary_game_logo.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Pictionary"
     },
@@ -150,7 +150,7 @@
       "number_of_players": "3-4",
       "age": "Age 10 and up",
       "year": 1995,
-      "type_of_Game": "Resource Management, Trading, Strategy",
+      "type_of_Game": "Strategy",
       "image": "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/ac73001b1d44f4925449ce09d9f5d5ca.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Catan"
     },
@@ -161,7 +161,7 @@
       "number_of_players": "2-6",
       "age": "Age 10 and up",
       "year": 1957,
-      "type_of_Game": "Area Control, War Game",
+      "type_of_Game": "Abstract Strategy",
       "image": "https://www.anbmedia.com/wp-content/uploads/2022/11/Risk-Logo-infinity-Game-Table.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Risk_(game)"
     },
@@ -172,7 +172,7 @@
       "number_of_players": 2,
       "age": "Age 8 and up",
       "year": 1961,
-      "type_of_Game": "Deduction, Memory, Strategy",
+      "type_of_Game": "Abstract Strategy",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Stratego_logo.svg/2560px-Stratego_logo.svg.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Stratego"
     },
@@ -183,7 +183,7 @@
       "number_of_players": 2,
       "age": "Age 6 and up",
       "year": -1400,
-      "type_of_Game": "Capture, Count and Capture",
+      "type_of_Game": "Abstract Strategy",
       "image": "https://nuxgame.com/glide/@public/provider/mancala-gaming-logo.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Mancala"
     },
@@ -194,7 +194,7 @@
       "number_of_players": 2,
       "age": "Age 6 and up",
       "year": 1974,
-      "type_of_Game": "Connection, Abstract Strategy",
+      "type_of_Game": "Abstract Strategy",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Connect_4_game_logo.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Connect_Four"
     },
@@ -205,7 +205,7 @@
       "number_of_players": "2-4",
       "age": "Age 7 and up",
       "year": 2000,
-      "type_of_Game": "Abstract Strategy, Tile Placement",
+      "type_of_Game": "Abstract Strategy",
       "image": "https://cf.geekdo-images.com/MzZnQ-IBV3WNl0KDO5Nftg__opengraph/img/MR1XqKETLGYHm6PzyQAqZqJIzdk=/0x116:1195x743/fit-in/1200x630/filters:strip_icc()/pic4917782.jpg",
       "wiki_website": "https://en.wikipedia.org/wiki/Blokus"
     },
@@ -216,7 +216,7 @@
       "number_of_players": 4,
       "age": "Age 13 and up",
       "year": 1998,
-      "type_of_Game": "Party, Creative, Trivia, Word",
+      "type_of_Game": "Mixed Genre",
       "image": "https://www.ultraboardgames.com/cranium/gfx/editions.jpg",
       "wiki_website": "https://en.wikipedia.org/wiki/Cranium_(board_game)"
     }
