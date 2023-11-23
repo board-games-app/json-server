@@ -63,7 +63,7 @@
       "age": "Age 7 and up",
       "year": 1931,
       "type_of_Game": "Strategy",
-      "image": "assets/battleship.png"
+      "image": "assets/battleship.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Battleship_(game)"
     },
     {
@@ -74,7 +74,7 @@
       "age": "Age 12 and up",
       "year": 1981,
       "type_of_Game": "Party",
-      "image": "assets/trivial.png"
+      "image": "assets/trivial.png",
       "wiki_website": "https://en.wikipedia.org/wiki/Trivial_Pursuit"
     },
     {
